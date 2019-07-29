@@ -1,0 +1,164 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "FreeStyle Life",
+      "coverPhoto": "https://i.imgur.com/jRoFQRC.png"
+    },
+    {
+      "id": 2,
+      "name": "Straight Up",
+      "coverPhoto": "https://i.imgur.com/WP7PJQo.png"
+    },
+    {
+      "id": 3,
+      "name": "Suicidas",
+      "coverPhoto": "https://i.imgur.com/Aj7d9P9.png"
+    },
+    {
+      "id": 5,
+      "name": "WestCoast Connection",
+      "coverPhoto": "https://i.imgur.com/tkfSKVm.png"
+    },
+    {
+      "id": 6,
+      "name": "664 Stunts",
+      "coverPhoto": "https://i.imgur.com/iQWtWuc.png"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://i.imgur.com/AB65unz.png"
+    },
+    {
+      "albumId": 1,
+      "url": "http://valuable-money.surge.sh/videos/vid.mp4"
+    },
+    {
+      "albumId": 1,
+      "url": "https://i.imgur.com/RwCCq8S.png"
+    },
+    {
+      "albumId": 1,
+      "url": "https://i.imgur.com/liC6JNg.png"
+    },
+    {
+      "albumId": 1,
+      "url": "https://i.imgur.com/g7mRGuU.png"
+    },
+    {
+      "albumId": 1,
+      "url": "https://i.imgur.com/4k09VYh.png"
+    },
+    {
+      "albumId": 1,
+      "url": "https://i.imgur.com/jRoFQRC.png"
+    },
+    {
+      "albumId": 2,
+      "url": "https://i.imgur.com/BUhK3ze.png"
+    },
+    {
+      "albumId": 2,
+      "url": "https://i.imgur.com/yXMbJGq.png"
+    },
+    {
+      "albumId": 2,
+      "url": "https://i.imgur.com/GqcEQL8.png"
+    },
+    {
+      "albumId": 2,
+      "url": "https://i.imgur.com/dC1PAUB.png"
+    },
+    {
+      "albumId": 2,
+      "url": "https://i.imgur.com/WP7PJQo.png"
+    },
+    {
+      "albumId": 2,
+      "url": "https://i.imgur.com/SCOcxXX.png"
+    },
+    {
+      "albumId": 3,
+      "url": "https://i.imgur.com/Aj7d9P9.png"
+    },
+    {
+      "albumId": 3,
+      "url": "https://i.imgur.com/67NQi3w.png"
+    },
+    {
+      "albumId": 3,
+      "url": "https://i.imgur.com/q9wHtvL.png"
+    },
+    {
+      "albumId": 3,
+      "url": "https://i.imgur.com/xBNVOxP.png"
+    },
+    {
+      "albumId": 3,
+      "url": "https://i.imgur.com/OtfVPD8.png"
+    },
+    {
+      "albumId": 3,
+      "url": "https://i.imgur.com/i5Cj5EX.png"
+    },
+    {
+      "albumId": 4,
+      "url": "http://encouraging-machine.surge.sh/videos/jake1.mp4"
+    },
+    {
+      "albumId": 4,
+      "url": "http://encouraging-machine.surge.sh/videos/jake2.mp4"
+    },
+    {
+      "albumId": 4,
+      "url": "http://encouraging-machine.surge.sh/videos/jake3.png"
+    },
+    {
+      "albumId": 6,
+      "url": "https://i.imgur.com/V4wS4dA.png"
+    },
+    {
+      "albumId": 6,
+      "url": "https://i.imgur.com/hCns70u.png"
+    },
+    {
+      "albumId": 6,
+      "url": "https://i.imgur.com/hKuvDpt.png"
+    },
+    {
+      "albumId": 6,
+      "url": "https://i.imgur.com/ja9PmOZ.png"
+    },
+    {
+      "albumId": 6,
+      "url": "https://i.imgur.com/iQWtWuc.png"
+    },
+    {
+      "albumId": 5,
+      "url": "https://i.imgur.com/tkfSKVm.png"
+    },
+    {
+      "albumId": 5,
+      "url": "https://i.imgur.com/lAa7nDJ.png"
+    },
+    {
+      "albumId": 5,
+      "url": "https://i.imgur.com/sE06UZH.png"
+    },
+    {
+      "albumId": 5,
+      "url": "https://i.imgur.com/iMM2H6s.png"
+    },
+    {
+      "albumId": 5,
+      "url": "https://i.imgur.com/1JTLarh.png"
+    },
+    {
+      "albumId": 5,
+      "url": "https://i.imgur.com/9TWmKjU.png"
+    }
+
+  ]
+}

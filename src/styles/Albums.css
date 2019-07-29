@@ -1,0 +1,56 @@
+#mainWrapper {
+    width: 100%;
+    height: 100%;
+    font-family: 'Lobster', cursive;
+}
+.albumsBanner {
+    width: 1200px;
+    margin: auto;
+    height: 200px;
+    border: 4px solid grey;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    line-height: 100px;
+    font-family: 'Lobster', cursive;
+}
+.albums {
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 4px solid grey;
+    justify-content: space-around;
+}
+.album img {
+    width: 250px;
+    height: 250px;
+    -webkit-box-shadow: -1px 3px 11px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 3px 11px 1px rgba(0,0,0,0.75);
+box-shadow: -1px 3px 11px 1px rgba(0,0,0,0.75);
+}
+.album img:hover {
+    -webkit-box-shadow: -1px 3px 11px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 3px 11px 1px rgba(0,0,0,0.75);
+box-shadow: -1px 1px 5px 1px rgba(0,0,0,0.75);
+}
+.albumName:hover {
+    color: yellow;
+}
+.albumName {
+    position: absolute;
+    width: 250px;
+    background-color: grey;
+    bottom: 50px;
+    left: 25px;
+    color: white;
+}
+.album {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+}
