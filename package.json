@@ -19,7 +19,7 @@
     "react-scripts": "3.0.1",
     "react-slideshow-image": "^1.2.0",
     "react-textgradient": "0.0.2",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "video-react": "^0.14.1"
   },
   "scripts": {
